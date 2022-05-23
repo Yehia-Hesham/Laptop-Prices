@@ -1,4 +1,4 @@
-# Laptop Prices Linear Regression using Regex and Difflib
+# Laptop Prices Regression using Regex and Difflib
 ###### _***By Yehia Hesham***_
 ### Introduction
 In this Project, I try extracting any useful information about each laptop and it's pricing and visualize the findings in a manner that is easy to follow, doing so should help us better understand the factors that affect laptop pricing. After that, building a Regression model that can predict the price of a laptop based on its specificaitons and deploying it to Heroku Cloud.
