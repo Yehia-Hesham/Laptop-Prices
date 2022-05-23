@@ -17,6 +17,11 @@ The reason for choosing this project is personal interest in discovering what fa
 - Parameter Tuning 
 - Deployment on Heroku Cloud
 
+#### Resources
+- Web Service:     https://laptop-prices-prediction.herokuapp.com/
+- Tableau Story:   https://public.tableau.com/app/profile/yehia.hesham/viz/Dashboard_Laptop_Prices/Story1
+- Youtube: https:  https://www.youtube.com/watch?v=UwvBIdh7swo&ab_channel=YehiaHesham
+
 ## Libraries used:
 - [numpy](https://numpy.org/) 
 - [pandas](https://pandas.pydata.org/)
@@ -39,12 +44,6 @@ The reason for choosing this project is personal interest in discovering what fa
 - data_db.db - Database of the restructured Data (used in eda_sql.ipynb).
 - finalp2.ipynb - Hyperparameter Tuning, building Pipeline and saving Joblib files for Deployment.
 - ***Other files either include [.py] scripts or [.h5] files used***
-
-#### Resources
-Web Service:     https://laptop-prices-prediction.herokuapp.com/
-Tableau Story:   https://public.tableau.com/app/profile/yehia.hesham/viz/Dashboard_Laptop_Prices/Story1
-Youtube: https:  https://www.youtube.com/watch?v=UwvBIdh7swo&ab_channel=YehiaHesham
-
 
 ## License
 **Free Software**
