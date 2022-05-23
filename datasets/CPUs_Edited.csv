@@ -1,0 +1,1195 @@
+CPU Name,Cores,CPU Mark -,Thread Mark -
+AMD 3015e,2,"2,720","1,391"
+AMD 3020e,2,"2,493","1,428"
+AMD A10 Micro-6700T APU,4,"1,345",700
+AMD A10 PRO-7350B APU,4,"1,910",911
+AMD A10-4600M APU,2,"1,923","1,067"
+AMD A10-4655M APU,2,"1,637",902
+AMD A10-4657M APU,4,"1,759",940
+AMD A10-5745M APU,4,"1,743",982
+AMD A10-5750M APU,4,"1,902","1,097"
+AMD A10-5757M APU,4,"1,985","1,107"
+AMD A10-7300 APU,4,"1,708",842
+AMD A10-7400P,4,"2,106","1,060"
+AMD A10-8700P,2,"2,265","1,150"
+AMD A10-9600P,4,"2,218","1,064"
+AMD A10-9620P,4,"2,518","1,279"
+AMD A10-9630P,4,"2,899","1,355"
+AMD A12-9700P,4,"2,422","1,188"
+AMD A12-9720P,4,"2,608","1,326"
+AMD A12-9730P,4,"3,172","1,487"
+AMD A4 Micro-6400T APU,4,"1,004",530
+AMD A4 PRO-3340B,4,"1,652",657
+AMD A4-1200 APU,2,391,295
+AMD A4-1250 APU,2,432,338
+AMD A4-3300M APU,2,683,766
+AMD A4-3305M APU,2,727,819
+AMD A4-3310MX APU,2,821,878
+AMD A4-3320M APU,2,640,656
+AMD A4-3330MX APU,2,752,910
+AMD A4-4300M APU,1,971,976
+AMD A4-4355M APU,2,818,828
+AMD A4-5000 APU,4,"1,289",510
+AMD A4-5050 APU,4,"1,328",538
+AMD A4-5100 APU,4,"1,346",540
+AMD A4-5150M APU,2,753,700
+AMD A4-6210 APU,4,"1,478",607
+AMD A4-7210 APU,4,"1,683",730
+AMD A4-9120,2,"1,229","1,059"
+AMD A4-9120C,2,894,953
+AMD A4-9120e,2,899,783
+AMD A4-9125,2,"1,211","1,039"
+AMD A6 Micro-6500T APU,4,"1,146",630
+AMD A6 PRO-7050B APU,2,"1,027",905
+AMD A6-1450 APU,4,"1,117",468
+AMD A6-3400M APU,4,"1,226",717
+AMD A6-3410MX APU,4,"1,176",712
+AMD A6-3420M APU,4,"1,262",788
+AMD A6-3430MX APU,4,"1,448",822
+AMD A6-4400M APU,1,"1,026","1,043"
+AMD A6-4455M APU,1,795,788
+AMD A6-5200 APU,4,"1,646",657
+AMD A6-5345M APU,2,"1,122","1,094"
+AMD A6-5350M APU,2,"1,142","1,197"
+AMD A6-5357M APU,2,"1,260","1,268"
+AMD A6-6310 APU,4,"1,666",750
+AMD A6-7000,2,"1,010",857
+AMD A6-7310 APU,4,"1,736",787
+AMD A6-8500P,2,"1,466","1,272"
+AMD A6-9200,2,"1,062",925
+AMD A6-9210,2,"1,260","1,101"
+AMD A6-9220,2,"1,287","1,140"
+AMD A6-9220C,2,"1,159","1,018"
+AMD A6-9220e,2,937,819
+AMD A6-9225,2,"1,334","1,179"
+AMD A6-9400,2,"2,717","1,664"
+AMD A8 PRO-7150B APU,4,"1,557",789
+AMD A8-3500M APU,4,"1,308",781
+AMD A8-3510MX APU,4,"1,457",826
+AMD A8-3520M APU,4,"1,395",841
+AMD A8-3530MX APU,4,"1,570",933
+AMD A8-3550MX APU,4,"1,579",938
+AMD A8-4500M APU,2,"1,622",887
+AMD A8-4555M APU,2,"1,307",788
+AMD A8-5545M APU,4,"1,605",873
+AMD A8-5550M APU,4,"1,858","1,042"
+AMD A8-5557M APU,4,"1,774","1,084"
+AMD A8-6410 APU,4,"1,775",786
+AMD A8-7050,2,"1,129",890
+AMD A8-7100 APU,4,"1,644",847
+AMD A8-7200P,4,"2,135","1,092"
+AMD A8-7410 APU,4,"1,800",799
+AMD A8-7680,4,"3,565","1,635"
+AMD A8-8600P,2,"2,240","1,103"
+AMD A9-9400,2,"1,390","1,246"
+AMD A9-9410,2,"1,504","1,317"
+AMD A9-9420,2,"1,515","1,318"
+AMD A9-9420e,2,"1,139",999
+AMD A9-9425,2,"1,528","1,342"
+AMD Athlon 220GE,2,"4,471","1,986"
+AMD Athlon 300U,2,"4,006","1,844"
+AMD Athlon 64 X2 QL-60,2,465,557
+AMD Athlon 64 X2 QL-62,2,553,685
+AMD Athlon 64 X2 QL-64,2,622,732
+AMD Athlon 64 X2 QL-65,2,609,653
+AMD Athlon 64 X2 QL-66,2,641,751
+AMD Athlon 64 X2 QL-67,2,582,515
+AMD Athlon Gold 3150U,2,"4,034","1,783"
+AMD Athlon II Neo K125,1,302,613
+AMD Athlon II Neo K145,1,298,592
+AMD Athlon II Neo K325 Dual-Core,2,387,472
+AMD Athlon II Neo K345 Dual-Core,2,527,552
+AMD Athlon II Neo N36L Dual-Core,2,478,521
+AMD Athlon Silver 3050e,2,"2,911","1,459"
+AMD Athlon Silver 3050GE,2,"4,545","2,016"
+AMD Athlon Silver 3050U,2,"3,064","1,712"
+AMD Athlon X2 Dual Core L310,2,379,434
+AMD C-30,1,178,375
+AMD C-50,2,260,315
+AMD E-240,1,182,385
+AMD E-300 APU,2,359,401
+AMD E-350,2,420,494
+AMD E-350 APU,2,401,482
+AMD E-450 APU,2,422,498
+AMD E1 Micro-6200T APU,2,600,498
+AMD E1-1200 APU,2,374,426
+AMD E1-1500 APU,2,390,458
+AMD E1-2100 APU,2,410,329
+AMD E1-2200 APU,2,474,368
+AMD E1-2500 APU,2,597,467
+AMD E1-6010 APU,2,522,419
+AMD E1-6015 APU,2,558,440
+AMD E1-7010 APU,2,582,492
+AMD E2-2000 APU,2,501,555
+AMD E2-3000 APU,2,726,547
+AMD E2-3000M APU,2,665,735
+AMD E2-3800 APU,4,"1,124",447
+AMD E2-6110 APU,4,"1,121",466
+AMD E2-7110 APU,4,"1,527",615
+AMD E2-9000,2,958,801
+AMD E2-9000e,2,832,725
+AMD E2-9010,2,991,871
+AMD Embedded G-Series GX-215JJ Radeon R2E,2,"1,057",869
+AMD Embedded G-Series GX-224IJ Radeon R4E,2,"1,271","1,119"
+AMD Embedded G-Series GX-420GI Radeon R7E,4,"1,561",854
+AMD Embedded R-Series RX-216GD,2,"1,628","1,313"
+AMD Embedded R-Series RX-418GD Radeon R6,4,"3,426","1,467"
+AMD Embedded R-Series RX-421BD,4,"3,302","1,477"
+AMD FX-7500 APU,4,"1,832",911
+AMD FX-7600P,4,"2,481","1,208"
+AMD FX-7600P APU,4,"2,856","1,436"
+AMD FX-8800P,2,"2,801","1,371"
+AMD FX-9800P,4,"2,262","1,137"
+AMD FX-9830P,4,"3,252","1,563"
+AMD G-T40E,2,289,313
+AMD G-T40N,2,292,321
+AMD G-T40R,1,120,327
+AMD G-T44R,1,130,328
+AMD G-T48E,2,416,454
+AMD G-T52R,1,177,381
+AMD G-T56E,2,442,522
+AMD G-T56N,2,470,520
+AMD GX-210JA SOC,2,248,231
+AMD GX-212JC SOC,2,619,453
+AMD GX-217GA SOC,2,762,558
+AMD GX-218GL SOC,2,754,627
+AMD GX-222GC SOC,2,"1,038",819
+AMD GX-412HC,4,"1,065",412
+AMD GX-415GA SOC,4,"1,386",520
+AMD GX-420CA SOC,4,"1,767",669
+AMD GX-420MC SOC,4,"1,796",695
+AMD GX-424CC SOC,4,"1,722",797
+AMD Phenom II N620 Dual-Core,2,990,"1,069"
+AMD Phenom II N640 Dual-Core,2,965,"1,039"
+AMD Phenom II N660 Dual-Core,2,"1,065","1,167"
+AMD Phenom II N830 3+1,4,"1,768",935
+AMD Phenom II N830 Triple-Core,3,"1,137",798
+AMD Phenom II N850 Triple-Core,3,"1,253",882
+AMD Phenom II N870 Triple-Core,3,"1,139",858
+AMD Phenom II N930 Quad-Core,4,"1,558",825
+AMD Phenom II N950 Quad-Core,4,"1,538",854
+AMD Phenom II N970 Quad-Core,4,"1,647",902
+AMD Phenom II P650 Dual-Core,2,933,985
+AMD Phenom II P820 Triple-Core,3,"1,068",717
+AMD Phenom II P840 Triple-Core,3,"1,116",790
+AMD Phenom II P860 Triple-Core,3,"1,214",831
+AMD Phenom II P920 Quad-Core,4,"1,160",598
+AMD Phenom II P940 Quad-Core,4,"1,319",679
+AMD Phenom II P960 Quad-Core,4,"1,412",740
+AMD Phenom II X620 Dual-Core,2,"1,262","1,339"
+AMD Phenom II X920 Quad-Core,4,"1,669",944
+AMD Phenom II X940 Quad-Core,4,"1,797",785
+AMD PRO A10-8700B,2,"2,262","1,140"
+AMD PRO A10-8730B,4,"2,388","1,226"
+AMD PRO A10-9700B,4,"2,602","1,311"
+AMD PRO A12-8800B,2,"2,622","1,357"
+AMD PRO A12-8830B,4,"2,392","1,192"
+AMD PRO A12-9800B,4,"2,729","1,387"
+AMD PRO A4-3350B APU,4,"1,702",779
+AMD PRO A4-4350B,2,"1,093",988
+AMD PRO A6-7350B,2,"1,679","1,535"
+AMD PRO A6-8500B,2,"1,704","1,365"
+AMD PRO A6-8530B,2,"1,498","1,271"
+AMD PRO A6-9500B,2,"1,340","1,108"
+AMD PRO A8-8600B,4,"2,160","1,096"
+AMD PRO A8-9600B,4,"2,388","1,310"
+AMD QC-4000,4,"1,155",449
+AMD R-260H APU,2,954,902
+AMD R-272F APU,2,"1,215","1,087"
+AMD R-460L APU,4,"1,183",776
+AMD RX-427BB,4,"2,729","1,297"
+AMD Ryzen 3 2200U,2,"3,690","1,682"
+AMD Ryzen 3 2300U,4,"5,507","1,745"
+AMD Ryzen 3 3200U,2,"3,891","1,825"
+AMD Ryzen 3 3250C,2,"2,595","1,782"
+AMD Ryzen 3 3250U,2,"3,984","1,846"
+AMD Ryzen 3 3300U,4,"5,867","1,905"
+AMD Ryzen 3 3350U,4,"5,947","1,985"
+AMD Ryzen 3 4300U,4,"7,567","2,324"
+AMD Ryzen 3 5300U,4,"10,098","2,403"
+AMD Ryzen 3 5400U,4,"11,839","2,893"
+AMD Ryzen 3 5425U,4,"9,641","2,788"
+AMD Ryzen 3 PRO 2300U,4,"6,069","1,869"
+AMD Ryzen 3 PRO 3200GE,4,"7,071","2,189"
+AMD Ryzen 3 PRO 3300U,4,"6,144","2,060"
+AMD Ryzen 3 PRO 4200GE,4,"10,930","2,540"
+AMD Ryzen 3 PRO 4450U,4,"10,139","2,364"
+AMD Ryzen 3 PRO 5450U,4,"11,453","2,847"
+AMD Ryzen 5 2500U,4,"6,551","1,833"
+AMD Ryzen 5 2600H,4,"7,836","2,136"
+AMD Ryzen 5 3450U,4,"6,808","1,934"
+AMD Ryzen 5 3500C,4,"4,905","2,153"
+AMD Ryzen 5 3500U,4,"7,098","1,980"
+AMD Ryzen 5 3550H,4,"7,993","2,077"
+AMD Ryzen 5 3580U,4,"7,827","2,121"
+AMD Ryzen 5 4500U,6,"11,103","2,455"
+AMD Ryzen 5 4600H,6,"14,739","2,461"
+AMD Ryzen 5 4600HS,6,"14,735","2,468"
+AMD Ryzen 5 4600U,6,"13,603","2,415"
+AMD Ryzen 5 5500U,6,"13,172","2,456"
+AMD Ryzen 5 5600H,6,"17,155","2,979"
+AMD Ryzen 5 5600U,6,"15,299","2,934"
+AMD Ryzen 5 5625U,6,"15,108","3,051"
+AMD Ryzen 5 PRO 2500U,4,"6,889","1,819"
+AMD Ryzen 5 PRO 3500U,4,"6,937","1,958"
+AMD Ryzen 5 PRO 4400GE,6,"14,795","2,664"
+AMD Ryzen 5 PRO 4500U,6,"12,049","2,486"
+AMD Ryzen 5 PRO 4650U,6,"12,941","2,470"
+AMD Ryzen 5 PRO 5650U,6,"15,405","2,961"
+AMD Ryzen 7 2700U,4,"6,871","1,799"
+AMD Ryzen 7 2800H,4,"7,656","2,164"
+AMD Ryzen 7 3700C,4,"7,145","2,301"
+AMD Ryzen 7 3700U,4,"7,312","2,012"
+AMD Ryzen 7 3750H,4,"8,274","2,103"
+AMD Ryzen 7 3780U,4,"7,651","2,227"
+AMD Ryzen 7 4700U,8,"13,648","2,553"
+AMD Ryzen 7 4800H,8,"19,062","2,638"
+AMD Ryzen 7 4800HS,8,"18,882","2,608"
+AMD Ryzen 7 4800U,8,"17,085","2,603"
+AMD Ryzen 7 4850U Mobile,8,"15,920","2,653"
+AMD Ryzen 7 5700U,8,"16,172","2,621"
+AMD Ryzen 7 5800H,8,"21,465","3,082"
+AMD Ryzen 7 5800HS,8,"20,633","3,058"
+AMD Ryzen 7 5800HS Creator Edition,8,"20,948","3,101"
+AMD Ryzen 7 5800U,8,"18,851","3,097"
+AMD Ryzen 7 5825U,8,"17,776","3,007"
+AMD Ryzen 7 6800H,8,"23,278","3,338"
+AMD Ryzen 7 Extreme Edition,8,"18,209","2,666"
+AMD Ryzen 7 PRO 2700U,4,"7,314","2,040"
+AMD Ryzen 7 PRO 3700U,4,"7,310","2,009"
+AMD Ryzen 7 PRO 4750U,8,"15,513","2,561"
+AMD Ryzen 7 PRO 5850U,8,"17,681","3,079"
+AMD Ryzen 7 PRO 5875U,8,"20,369","2,919"
+AMD Ryzen 9 4900H,8,"19,343","2,734"
+AMD Ryzen 9 4900HS,8,"19,437","2,631"
+AMD Ryzen 9 5900H,8,"20,960","3,312"
+AMD Ryzen 9 5900HS,8,"22,264","3,209"
+AMD Ryzen 9 5900HX,8,"23,157","3,231"
+AMD Ryzen 9 5980HS,8,"21,412","3,145"
+AMD Ryzen 9 5980HX,8,"23,253","3,328"
+AMD Ryzen 9 6900HS,8,"24,478","3,368"
+AMD Ryzen Embedded R1305G,2,"3,268","1,668"
+AMD Ryzen Embedded R1505G,2,"3,966","1,817"
+AMD Ryzen Embedded V1202B,2,"3,253","1,424"
+AMD Ryzen Embedded V1605B,4,"6,795","1,962"
+AMD Ryzen Embedded V1807B,4,"8,488","2,190"
+AMD Sempron M120,1,247,559
+AMD Sempron SI-40,1,252,582
+AMD Sempron SI-42,1,261,650
+AMD Turion 64 Mobile MK-36,1,334,735
+AMD Turion 64 Mobile MK-38,1,362,801
+AMD Turion 64 Mobile ML-28,1,254,314
+AMD Turion 64 Mobile ML-30,1,277,314
+AMD Turion 64 Mobile ML-32,1,285,321
+AMD Turion 64 Mobile ML-34,1,277,329
+AMD Turion 64 Mobile ML-37,1,334,510
+AMD Turion 64 Mobile ML-40,1,336,662
+AMD Turion 64 Mobile ML-42,1,400,455
+AMD Turion 64 Mobile ML-44,1,384,469
+AMD Turion 64 Mobile MT-30,1,246,294
+AMD Turion 64 Mobile MT-32,1,286,367
+AMD Turion 64 Mobile MT-34,1,279,328
+AMD Turion 64 Mobile MT-37,1,315,379
+AMD Turion 64 X2 Mobile TL-50,2,436,525
+AMD Turion 64 X2 Mobile TL-52,2,384,497
+AMD Turion 64 X2 Mobile TL-56,2,453,579
+AMD Turion 64 X2 Mobile TL-58,2,478,552
+AMD Turion 64 X2 Mobile TL-60,2,591,688
+AMD Turion 64 X2 Mobile TL-62,2,738,758
+AMD Turion 64 X2 Mobile TL-64,2,675,702
+AMD Turion 64 X2 Mobile TL-66,2,627,816
+AMD Turion 64 X2 Mobile TL-68,2,861,887
+AMD Turion Dual-Core RM-70,2,561,548
+AMD Turion Dual-Core RM-72,2,649,725
+AMD Turion Dual-Core RM-74,2,588,595
+AMD Turion Dual-Core RM-75,2,659,444
+AMD Turion II Dual-Core Mobile M500,2,760,866
+AMD Turion II Dual-Core Mobile M520,2,830,927
+AMD Turion II Dual-Core Mobile M540,2,912,967
+AMD Turion II N530 Dual-Core,2,855,968
+AMD Turion II N550 Dual-Core,2,877,891
+AMD Turion II Neo K625 Dual-Core,2,565,596
+AMD Turion II Neo K685 Dual-Core,2,684,729
+AMD Turion II Neo N40L Dual-Core,2,589,609
+AMD Turion II Neo N54L Dual-Core,2,741,840
+AMD Turion II P520 Dual-Core,2,790,892
+AMD Turion II P540 Dual-Core,2,884,843
+AMD Turion II P560 Dual-Core,2,818,931
+AMD Turion II Ultra Dual-Core Mobile M600,2,923,982
+AMD Turion II Ultra Dual-Core Mobile M620,2,814,945
+AMD Turion II Ultra Dual-Core Mobile M640,2,"1,016","1,063"
+AMD Turion II Ultra Dual-Core Mobile M660,2,"1,011","1,103"
+AMD Turion Neo X2 Dual Core L625,2,431,530
+AMD Turion X2 Dual Core L510,2,603,593
+AMD Turion X2 Dual Core Mobile RM-70,2,497,504
+AMD Turion X2 Dual Core Mobile RM-76,2,691,729
+AMD Turion X2 Dual-Core Mobile RM-70,2,624,663
+AMD Turion X2 Dual-Core Mobile RM-72,2,666,751
+AMD Turion X2 Dual-Core Mobile RM-74,2,623,730
+AMD Turion X2 Dual-Core Mobile RM-75,2,708,770
+AMD Turion X2 Dual-Core Mobile RM-77,2,635,753
+AMD Turion X2 Ultra Dual-Core Mobile ZM-80,2,521,628
+AMD Turion X2 Ultra Dual-Core Mobile ZM-82,2,654,789
+AMD Turion X2 Ultra Dual-Core Mobile ZM-84,2,793,778
+AMD Turion X2 Ultra Dual-Core Mobile ZM-85,2,730,828
+AMD Turion X2 Ultra Dual-Core Mobile ZM-86,2,695,820
+AMD Turion X2 Ultra Dual-Core Mobile ZM-87,2,689,758
+AMD TurionX2 Dual Core Mobile RM-70,2,536,674
+AMD TurionX2 Dual Core Mobile RM-72,2,471,392
+AMD TurionX2 Ultra DualCore Mobile ZM-85,2,841,686
+AMD V105,1,184,452
+AMD V120,1,362,812
+AMD V140,1,379,869
+AMD V160,1,337,838
+AMD Z-60 APU,2,262,318
+Apple M1 8 Core 3200 MHz,8,"14,736","3,764"
+Apple M1 Max 10 Core 3200 MHz,10,"22,608","3,850"
+Apple M1 Pro 10 Core 3200 MHz,10,"22,358","3,845"
+Apple M1 Pro 8 Core 3200 MHz,8,"17,564","3,813"
+Celeron Dual-Core T3000 @ 1.80GHz,2,629,739
+Celeron Dual-Core T3100 @ 1.90GHz,2,519,566
+Celeron Dual-Core T3300 @ 2.00GHz,2,627,692
+Celeron Dual-Core T3500 @ 2.10GHz,2,768,872
+Intel Atom C2338 @ 1.74GHz,2,584,233
+Intel Atom C2358 @ 1.74GHz,2,625,291
+Intel Atom C2538 @ 2.40GHz,4,960,491
+Intel Atom C2558 @ 2.40GHz,4,"1,410",358
+Intel Atom C2758 @ 2.40GHz,8,"2,056",333
+Intel Atom D2701 @ 2.13GHz,2,511,384
+Intel Atom E3826 @ 1.46GHz,2,304,395
+Intel Atom E3827 @ 1.74GHz,2,460,455
+Intel Atom E3900 @ 1.60GHz,4,"1,953",675
+Intel Atom E3940 @ 1.60GHz,4,"1,960",676
+Intel Atom E3950 @ 1.60GHz,4,"2,092",737
+Intel Atom N2100 @ 1.60GHz,1,188,310
+Intel Atom N2600 @ 1.60GHz,2,323,292
+Intel Atom N270 @ 1.60GHz,1,175,164
+Intel Atom N280 @ 1.66GHz,1,175,226
+Intel Atom N2800 @ 1.86GHz,2,429,319
+Intel Atom N450 @ 1.66GHz,1,177,270
+Intel Atom N455 @ 1.66GHz,1,179,257
+Intel Atom N470 @ 1.83GHz,1,224,308
+Intel Atom N475 @ 1.83GHz,1,179,281
+Intel Atom N550 @ 1.50GHz,2,265,243
+Intel Atom N570 @ 1.66GHz,2,335,282
+Intel Atom T5700 @ 1.70GHz,4,"2,030",816
+Intel Atom x5-E3930 @ 1.30GHz,2,878,617
+Intel Atom x5-E8000 @ 1.04GHz,4,985,509
+Intel Atom x5-Z8300 @ 1.44GHz,4,821,463
+Intel Atom x5-Z8330 @ 1.44GHz,4,822,472
+Intel Atom x5-Z8350 @ 1.44GHz,4,911,484
+Intel Atom x5-Z8500 @ 1.44GHz,4,"1,238",628
+Intel Atom x5-Z8550 @ 1.44GHz,4,"1,190",705
+Intel Atom x7-Z8700 @ 1.60GHz,4,"1,323",646
+Intel Atom x7-Z8750 @ 1.60GHz,4,"1,373",697
+Intel Atom Z2760 @ 1.80GHz,2,298,206
+Intel Atom Z3580 @ 1.33GHz,4,820,564
+Intel Atom Z3735D @ 1.33GHz,4,761,591
+Intel Atom Z3735E @ 1.33GHz,4,557,478
+Intel Atom Z3735F @ 1.33GHz,4,544,391
+Intel Atom Z3735G @ 1.33GHz,4,806,487
+Intel Atom Z3736F @ 1.33GHz,4,502,419
+Intel Atom Z3740 @ 1.33GHz,4,651,423
+Intel Atom Z3740D @ 1.33GHz,4,614,459
+Intel Atom Z3745 @ 1.33GHz,4,621,435
+Intel Atom Z3745D @ 1.33GHz,4,585,437
+Intel Atom Z3770 @ 1.46GHz,4,738,542
+Intel Atom Z3770D @ 1.49GHz,4,488,361
+Intel Atom Z3775 @ 1.46GHz,4,754,538
+Intel Atom Z3775D @ 1.49GHz,4,794,646
+Intel Atom Z3795 @ 1.60GHz,4,"1,166",654
+Intel Atom Z520 @ 1.33GHz,1,122,151
+Intel Atom Z530 @ 1.60GHz,1,183,161
+Intel Atom Z670 @ 1.50GHz,1,158,95
+Intel Celeron 1000M @ 1.80GHz,2,"1,026",969
+Intel Celeron 1005M @ 1.90GHz,2,"1,074","1,017"
+Intel Celeron 1007U @ 1.50GHz,2,798,760
+Intel Celeron 1017U @ 1.60GHz,2,888,821
+Intel Celeron 1020E @ 2.20GHz,2,"1,406","1,224"
+Intel Celeron 1020M @ 2.10GHz,2,"1,275","1,176"
+Intel Celeron 1037U @ 1.80GHz,2,969,914
+Intel Celeron 2000E @ 2.20GHz,2,"1,607","1,282"
+Intel Celeron 2002E @ 1.50GHz,2,"1,091",871
+Intel Celeron 215 @ 1.33GHz,1,174,440
+Intel Celeron 2950M @ 2.00GHz,2,"1,237","1,150"
+Intel Celeron 2955U @ 1.40GHz,2,835,765
+Intel Celeron 2957U @ 1.40GHz,2,841,782
+Intel Celeron 2961Y @ 1.10GHz,2,732,641
+Intel Celeron 2970M @ 2.20GHz,2,"1,501","1,245"
+Intel Celeron 2980U @ 1.60GHz,2,"1,056",929
+Intel Celeron 2981U @ 1.60GHz,2,991,871
+Intel Celeron 3205U @ 1.50GHz,2,918,879
+Intel Celeron 3215U @ 1.70GHz,2,"1,144","1,060"
+Intel Celeron 3755U @ 1.70GHz,2,"1,182","1,022"
+Intel Celeron 3765U @ 1.90GHz,2,"1,252","1,171"
+Intel Celeron 3855U @ 1.60GHz,2,"1,237",944
+Intel Celeron 3865U @ 1.80GHz,2,"1,266","1,047"
+Intel Celeron 3867U @ 1.80GHz,2,"1,488","1,097"
+Intel Celeron 3955U @ 2.00GHz,2,"1,490","1,202"
+Intel Celeron 3965U @ 2.20GHz,2,"1,692","1,356"
+Intel Celeron 3965Y @ 1.50GHz,2,"1,179",889
+Intel Celeron 4205U @ 1.80GHz,2,"1,341","1,057"
+Intel Celeron 4305UE @ 2.00GHz,2,"1,876","1,213"
+Intel Celeron 5205U @ 1.90GHz,2,"1,414","1,094"
+Intel Celeron 530 @ 1.73GHz,1,268,468
+Intel Celeron 540 @ 1.86GHz,1,283,496
+Intel Celeron 550 @ 2.00GHz,1,301,613
+Intel Celeron 560 @ 2.13GHz,1,365,498
+Intel Celeron 570 @ 2.26GHz,1,344,431
+Intel Celeron 6305 @ 1.80GHz,2,"2,211","1,229"
+Intel Celeron 723 @ 1.20GHz,1,213,460
+Intel Celeron 743 @ 1.30GHz,1,268,529
+Intel Celeron 807 @ 1.50GHz,1,392,608
+Intel Celeron 807UE @ 1.00GHz,1,241,421
+Intel Celeron 827E @ 1.40GHz,1,371,674
+Intel Celeron 847 @ 1.10GHz,2,470,483
+Intel Celeron 847E @ 1.10GHz,2,584,520
+Intel Celeron 857 @ 1.20GHz,2,569,476
+Intel Celeron 867 @ 1.30GHz,2,562,584
+Intel Celeron 877 @ 1.40GHz,2,642,627
+Intel Celeron 887 @ 1.50GHz,2,727,694
+Intel Celeron 900 @ 2.20GHz,1,404,847
+Intel Celeron 925 @ 2.30GHz,1,444,846
+Intel Celeron B710 @ 1.60GHz,1,106,101
+Intel Celeron B800 @ 1.50GHz,2,649,645
+Intel Celeron B810 @ 1.60GHz,2,775,754
+Intel Celeron B815 @ 1.60GHz,2,706,684
+Intel Celeron B820 @ 1.70GHz,2,789,745
+Intel Celeron B830 @ 1.80GHz,2,812,841
+Intel Celeron B840 @ 1.90GHz,2,930,901
+Intel Celeron G3900E @ 2.40GHz,2,"2,034","1,499"
+Intel Celeron G3900TE @ 2.30GHz,2,"1,850","1,402"
+Intel Celeron J3355 @ 2.00GHz,2,"1,195",806
+Intel Celeron M 1.00GHz,1,149,197
+Intel Celeron M 1.30GHz,1,205,284
+Intel Celeron M 1.50GHz,1,216,280
+Intel Celeron M 1.60GHz,1,190,433
+Intel Celeron M 1.70GHz,1,252,370
+Intel Celeron M 1300MHz,1,197,274
+Intel Celeron M 1500MHz,1,217,297
+Intel Celeron M 360 1.40GHz,1,221,305
+Intel Celeron M 410 @ 1.46GHz,1,123,301
+Intel Celeron M 420 @ 1.60GHz,1,139,391
+Intel Celeron M 430 @ 1.73GHz,1,169,466
+Intel Celeron M 440 @ 1.86GHz,1,169,485
+Intel Celeron M 443 @ 1.20GHz,1,125,288
+Intel Celeron M 450 @ 2.00GHz,1,230,598
+Intel Celeron M 520 @ 1.60GHz,1,215,522
+Intel Celeron M 530 @ 1.73GHz,1,307,553
+Intel Celeron M 723 @ 1.20GHz,1,267,507
+Intel Celeron M 900MHz,1,123,155
+Intel Celeron N2805 @ 1.46GHz,2,335,394
+Intel Celeron N2806 @ 1.60GHz,2,479,524
+Intel Celeron N2807 @ 1.58GHz,2,450,540
+Intel Celeron N2808 @ 1.58GHz,2,532,596
+Intel Celeron N2810 @ 2.00GHz,2,420,512
+Intel Celeron N2815 @ 1.86GHz,2,486,564
+Intel Celeron N2820 @ 2.13GHz,2,469,583
+Intel Celeron N2830 @ 2.16GHz,2,541,629
+Intel Celeron N2840 @ 2.16GHz,2,581,669
+Intel Celeron N2910 @ 1.60GHz,4,742,446
+Intel Celeron N2920 @ 1.86GHz,4,918,549
+Intel Celeron N2930 @ 1.83GHz,4,"1,003",582
+Intel Celeron N2940 @ 1.83GHz,4,"1,035",612
+Intel Celeron N3000 @ 1.04GHz,2,604,562
+Intel Celeron N3010 @ 1.04GHz,2,486,560
+Intel Celeron N3050 @ 1.60GHz,2,591,564
+Intel Celeron N3060 @ 1.60GHz,2,664,629
+Intel Celeron N3150 @ 1.60GHz,4,"1,193",572
+Intel Celeron N3160 @ 1.60GHz,4,"1,154",567
+Intel Celeron N3350 @ 1.10GHz,2,"1,128",809
+Intel Celeron N3450 @ 1.10GHz,4,"1,931",762
+Intel Celeron N4000 @ 1.10GHz,2,"1,398","1,021"
+Intel Celeron N4000C @ 1.10GHz,2,"1,611","1,150"
+Intel Celeron N4020 @ 1.10GHz,2,"1,572","1,175"
+Intel Celeron N4100 @ 1.10GHz,4,"2,453","1,011"
+Intel Celeron N4120 @ 1.10GHz,4,"2,493","1,102"
+Intel Celeron N5100 @ 1.10GHz,4,"3,165","1,380"
+Intel Celeron P4500 @ 1.87GHz,2,816,707
+Intel Celeron P4505 @ 1.87GHz,2,689,820
+Intel Celeron P4600 @ 2.00GHz,2,862,812
+Intel Celeron SU2300 @ 1.20GHz,2,445,500
+Intel Celeron T1600 @ 1.66GHz,2,519,628
+Intel Celeron U3400 @ 1.07GHz,2,473,441
+Intel Celeron U3600 @ 1.20GHz,2,560,520
+Intel Core Duo L2400 @ 1.66GHz,2,348,501
+Intel Core Duo L2500 @ 1.83GHz,2,404,578
+Intel Core Duo T2250 @ 1.73GHz,2,347,529
+Intel Core Duo T2300 @ 1.66GHz,2,330,519
+Intel Core Duo T2350 @ 1.86GHz,2,364,560
+Intel Core Duo T2400 @ 1.83GHz,2,349,511
+Intel Core Duo T2450 @ 2.00GHz,2,404,603
+Intel Core Duo T2500 @ 2.00GHz,2,408,613
+Intel Core Duo T2600 @ 2.16GHz,2,450,667
+Intel Core Duo T2700 @ 2.33GHz,2,498,652
+Intel Core Duo U2400 @ 1.06GHz,2,255,342
+Intel Core Duo U2500 @ 1.20GHz,2,220,362
+Intel Core i3-1000NG4 @ 1.10GHz,2,"3,912","1,912"
+Intel Core i3-1005G1 @ 1.20GHz,2,"5,132","2,252"
+Intel Core i3-10100T @ 3.00GHz,4,"7,416","2,320"
+Intel Core i3-10110U @ 2.10GHz,2,"4,015","2,269"
+Intel Core i3-10110Y @ 1.00GHz,2,"3,278","2,093"
+Intel Core i3-1115G4 @ 3.00GHz,2,"6,277","2,697"
+Intel Core i3-1125G4 @ 2.00GHz,4,"9,945","2,510"
+Intel Core i3-2310E @ 2.10GHz,2,"1,845",733
+Intel Core i3-2310M @ 2.10GHz,2,"1,187",940
+Intel Core i3-2312M @ 2.10GHz,2,"1,138",927
+Intel Core i3-2328M @ 2.20GHz,2,"1,221",986
+Intel Core i3-2330M @ 2.20GHz,2,"1,236",985
+Intel Core i3-2332M @ 2.20GHz,2,"1,353",936
+Intel Core i3-2340UE @ 1.30GHz,2,976,620
+Intel Core i3-2348M @ 2.30GHz,2,"1,259","1,038"
+Intel Core i3-2350M @ 2.30GHz,2,"1,261","1,003"
+Intel Core i3-2357M @ 1.30GHz,2,824,591
+Intel Core i3-2365M @ 1.40GHz,2,815,611
+Intel Core i3-2367M @ 1.40GHz,2,832,617
+Intel Core i3-2370M @ 2.40GHz,2,"1,349","1,074"
+Intel Core i3-2375M @ 1.50GHz,2,894,684
+Intel Core i3-2377M @ 1.50GHz,2,845,640
+Intel Core i3-3110M @ 2.40GHz,2,"1,605","1,255"
+Intel Core i3-3120M @ 2.50GHz,2,"1,636","1,268"
+Intel Core i3-3130M @ 2.60GHz,2,"1,824","1,067"
+Intel Core i3-3217U @ 1.80GHz,2,"1,188",910
+Intel Core i3-3217UE @ 1.60GHz,2,"1,362",711
+Intel Core i3-3227U @ 1.90GHz,2,"1,248",939
+Intel Core i3-330E @ 2.13GHz,2,"1,260",934
+Intel Core i3-330M @ 2.13GHz,2,"1,006",816
+Intel Core i3-330UM @ 1.20GHz,2,484,339
+Intel Core i3-350M @ 2.27GHz,2,"1,063",879
+Intel Core i3-370M @ 2.40GHz,2,"1,126",977
+Intel Core i3-380M @ 2.53GHz,2,"1,165","1,018"
+Intel Core i3-380UM @ 1.33GHz,2,699,562
+Intel Core i3-390M @ 2.67GHz,2,"1,178","1,096"
+Intel Core i3-4000M @ 2.40GHz,2,"1,756","1,280"
+Intel Core i3-4005U @ 1.70GHz,2,"1,633",901
+Intel Core i3-4010U @ 1.70GHz,2,"1,642",904
+Intel Core i3-4012Y @ 1.50GHz,2,"1,229",698
+Intel Core i3-4025U @ 1.90GHz,2,"1,974","1,100"
+Intel Core i3-4030U @ 1.90GHz,2,"1,874","1,025"
+Intel Core i3-4030Y @ 1.60GHz,2,"1,654",901
+Intel Core i3-4100M @ 2.50GHz,2,"2,447","1,366"
+Intel Core i3-4110M @ 2.60GHz,2,"2,678","1,389"
+Intel Core i3-4110U @ 1.90GHz,2,"1,853","1,119"
+Intel Core i3-4120U @ 2.00GHz,2,"1,948","1,177"
+Intel Core i3-4158U @ 2.00GHz,2,"1,718","1,005"
+Intel Core i3-4350T @ 3.10GHz,2,"2,888","1,656"
+Intel Core i3-5005U @ 2.00GHz,2,"2,021","1,152"
+Intel Core i3-5010U @ 2.10GHz,2,"2,167","1,238"
+Intel Core i3-5015U @ 2.10GHz,2,"1,929","1,084"
+Intel Core i3-5020U @ 2.20GHz,2,"2,226","1,279"
+Intel Core i3-5157U @ 2.50GHz,2,"2,588","1,325"
+Intel Core i3-6006U @ 2.00GHz,2,"2,274","1,165"
+Intel Core i3-6100E @ 2.70GHz,2,"3,315","1,688"
+Intel Core i3-6100H @ 2.70GHz,2,"3,041","1,543"
+Intel Core i3-6100U @ 2.30GHz,2,"2,640","1,346"
+Intel Core i3-6102E @ 1.90GHz,2,"2,349","1,068"
+Intel Core i3-6157U @ 2.40GHz,2,"2,789","1,442"
+Intel Core i3-7020U @ 2.30GHz,2,"2,562","1,324"
+Intel Core i3-7100H @ 3.00GHz,2,"3,430","1,668"
+Intel Core i3-7100U @ 2.40GHz,2,"2,719","1,391"
+Intel Core i3-7102E @ 2.10GHz,2,"2,521","1,292"
+Intel Core i3-7130U @ 2.70GHz,2,"2,981","1,582"
+Intel Core i3-7167U @ 2.80GHz,2,"3,280","1,635"
+Intel Core i3-8100B @ 3.60GHz,4,"6,081","2,363"
+Intel Core i3-8109U @ 3.00GHz,2,"4,301","2,133"
+Intel Core i3-8121U @ 2.20GHz,2,"4,376","1,927"
+Intel Core i3-8130U @ 2.20GHz,2,"3,647","1,942"
+Intel Core i3-8140U @ 2.10GHz,2,"4,227","2,135"
+Intel Core i3-8145U @ 2.10GHz,2,"3,842","2,144"
+Intel Core i3-8145UE @ 2.20GHz,2,"4,133","2,324"
+Intel Core i3-9100TE @ 2.20GHz,4,"4,501","1,585"
+Intel Core i5-10200H @ 2.40GHz,4,"8,461","2,481"
+Intel Core i5-10210U @ 1.60GHz,4,"6,416","2,236"
+Intel Core i5-10210Y @ 1.00GHz,4,"4,836","2,032"
+Intel Core i5-10300H @ 2.50GHz,4,"8,686","2,615"
+Intel Core i5-1030NG7 @ 1.10GHz,4,"6,164","1,824"
+Intel Core i5-10310U @ 1.70GHz,4,"6,623","2,272"
+Intel Core i5-1035G1 @ 1.00GHz,4,"7,749","2,308"
+Intel Core i5-1035G4 @ 1.10GHz,4,"8,235","2,277"
+Intel Core i5-1035G7 @ 1.20GHz,4,"8,422","2,295"
+Intel Core i5-1038NG7 @ 2.00GHz,4,"9,621","2,321"
+Intel Core i5-10400H @ 2.60GHz,4,"8,916","2,738"
+Intel Core i5-10500H @ 2.50GHz,6,"11,602","2,619"
+Intel Core i5-11260H @ 2.60GHz,6,"15,271","2,965"
+Intel Core i5-11300H @ 3.10GHz,4,"11,029","2,830"
+Intel Core i5-1130G7 @ 1.10GHz,4,"9,847","2,555"
+Intel Core i5-11320H @ 3.20GHz,4,"10,695","2,935"
+Intel Core i5-1135G7 @ 2.40GHz,4,"10,113","2,727"
+Intel Core i5-11400H @ 2.70GHz,6,"16,114","3,066"
+Intel Core i5-1145G7 @ 2.60GHz,4,"10,414","2,815"
+Intel Core i5-11500H @ 2.90GHz,6,"16,396","3,145"
+Intel Core i5-1155G7 @ 2.50GHz,4,"10,515","3,012"
+Intel Core i5-1235U,2,"11,119","3,335"
+Intel Core i5-1240P,4,"19,159","3,403"
+Intel Core i5-12450H,4,"19,820","3,628"
+Intel Core i5-12500H,4,"23,580","3,712"
+Intel Core i5-1250P,4,"23,120","3,619"
+Intel Core i5-2410M @ 2.30GHz,2,"1,960","1,228"
+Intel Core i5-2430M @ 2.40GHz,2,"2,011","1,247"
+Intel Core i5-2435M @ 2.40GHz,2,"2,085","1,300"
+Intel Core i5-2450M @ 2.50GHz,2,"2,059","1,275"
+Intel Core i5-2467M @ 1.60GHz,2,"1,434",840
+Intel Core i5-2510E @ 2.50GHz,2,"1,889","1,183"
+Intel Core i5-2520M @ 2.50GHz,2,"2,249","1,372"
+Intel Core i5-2537M @ 1.40GHz,2,"1,169",906
+Intel Core i5-2540M @ 2.60GHz,2,"2,293","1,379"
+Intel Core i5-2557M @ 1.70GHz,2,"1,732","1,048"
+Intel Core i5-3210M @ 2.50GHz,2,"2,448","1,535"
+Intel Core i5-3230M @ 2.60GHz,2,"2,516","1,558"
+Intel Core i5-3317U @ 1.70GHz,2,"1,965","1,232"
+Intel Core i5-3320M @ 2.60GHz,2,"2,645","1,613"
+Intel Core i5-3337U @ 1.80GHz,2,"2,060","1,280"
+Intel Core i5-3340M @ 2.70GHz,2,"2,631","1,627"
+Intel Core i5-3360M @ 2.80GHz,2,"2,841","1,752"
+Intel Core i5-3380M @ 2.90GHz,2,"3,002","1,859"
+Intel Core i5-3427U @ 1.80GHz,2,"2,273","1,370"
+Intel Core i5-3437U @ 1.90GHz,2,"2,283","1,391"
+Intel Core i5-3610ME @ 2.70GHz,2,"2,553","1,574"
+Intel Core i5-4200M @ 2.50GHz,2,"2,777","1,625"
+Intel Core i5-4200U @ 1.60GHz,2,"2,211","1,330"
+Intel Core i5-4210H @ 2.90GHz,2,"2,918","1,716"
+Intel Core i5-4210M @ 2.60GHz,2,"2,893","1,690"
+Intel Core i5-4210U @ 1.70GHz,2,"2,296","1,377"
+Intel Core i5-4220Y @ 1.60GHz,2,"1,591",952
+Intel Core i5-4230U @ 1.90GHz,2,"1,853","1,620"
+Intel Core i5-4250U @ 1.30GHz,2,"2,192","1,366"
+Intel Core i5-4258U @ 2.40GHz,2,"2,497","1,507"
+Intel Core i5-4260U @ 1.40GHz,2,"2,332","1,477"
+Intel Core i5-4278U @ 2.60GHz,2,"2,801","1,715"
+Intel Core i5-4288U @ 2.60GHz,2,"2,612","1,620"
+Intel Core i5-4300M @ 2.60GHz,2,"3,033","1,768"
+Intel Core i5-4300U @ 1.90GHz,2,"2,511","1,498"
+Intel Core i5-4308U @ 2.80GHz,2,"3,081","1,890"
+Intel Core i5-430M @ 2.27GHz,2,"1,210",998
+Intel Core i5-430UM @ 1.20GHz,2,836,630
+Intel Core i5-4310M @ 2.70GHz,2,"3,142","1,827"
+Intel Core i5-4310U @ 2.00GHz,2,"2,490","1,490"
+Intel Core i5-4330M @ 2.80GHz,2,"3,208","1,855"
+Intel Core i5-4340M @ 2.90GHz,2,"3,491","2,032"
+Intel Core i5-4350U @ 1.40GHz,2,"2,305","1,499"
+Intel Core i5-4402E @ 1.60GHz,2,"2,681","1,510"
+Intel Core i5-4422E @ 1.80GHz,2,"1,907","1,048"
+Intel Core i5-450M @ 2.40GHz,2,"1,206","1,032"
+Intel Core i5-460M @ 2.53GHz,2,"1,279","1,137"
+Intel Core i5-470UM @ 1.33GHz,2,755,539
+Intel Core i5-480M @ 2.67GHz,2,"1,308","1,167"
+Intel Core i5-5200U @ 2.20GHz,2,"2,502","1,513"
+Intel Core i5-520M @ 2.40GHz,2,"1,684","1,083"
+Intel Core i5-520UM @ 1.07GHz,2,902,759
+Intel Core i5-5250U @ 1.60GHz,2,"2,497","1,567"
+Intel Core i5-5257U @ 2.70GHz,2,"3,034","1,878"
+Intel Core i5-5287U @ 2.90GHz,2,"3,193","2,027"
+Intel Core i5-5300U @ 2.30GHz,2,"2,740","1,647"
+Intel Core i5-5350U @ 1.80GHz,2,"2,631","1,702"
+Intel Core i5-540M @ 2.53GHz,2,"1,749","1,132"
+Intel Core i5-540UM @ 1.20GHz,2,"1,002",818
+Intel Core i5-560M @ 2.67GHz,2,"1,838","1,243"
+Intel Core i5-560UM @ 1.33GHz,2,"1,015",898
+Intel Core i5-580M @ 2.67GHz,2,"1,914","1,266"
+Intel Core i5-6198DU @ 2.30GHz,2,"3,170","1,659"
+Intel Core i5-6200U @ 2.30GHz,2,"3,029","1,588"
+Intel Core i5-6260U @ 1.80GHz,2,"3,207","1,665"
+Intel Core i5-6267U @ 2.90GHz,2,"3,472","1,856"
+Intel Core i5-6287U @ 3.10GHz,2,"3,925","2,080"
+Intel Core i5-6300HQ @ 2.30GHz,4,"4,694","1,794"
+Intel Core i5-6300U @ 2.40GHz,2,"3,258","1,691"
+Intel Core i5-6350HQ @ 2.30GHz,4,"4,255","1,420"
+Intel Core i5-6360U @ 2.00GHz,2,"3,249","1,799"
+Intel Core i5-6440EQ @ 2.70GHz,4,"5,368","1,943"
+Intel Core i5-6440HQ @ 2.60GHz,4,"5,126","2,004"
+Intel Core i5-6442EQ @ 1.90GHz,4,"4,598","1,716"
+Intel Core i5-7200U @ 2.50GHz,2,"3,413","1,780"
+Intel Core i5-7260U @ 2.20GHz,2,"3,895","1,989"
+Intel Core i5-7267U @ 3.10GHz,2,"3,925","2,059"
+Intel Core i5-7287U @ 3.30GHz,2,"4,149","2,154"
+Intel Core i5-7300HQ @ 2.50GHz,4,"5,107","1,968"
+Intel Core i5-7300U @ 2.60GHz,2,"3,745","1,965"
+Intel Core i5-7360U @ 2.30GHz,2,"4,031","2,180"
+Intel Core i5-7440EQ @ 2.90GHz,4,"5,711","2,131"
+Intel Core i5-7440HQ @ 2.80GHz,4,"5,513","2,017"
+Intel Core i5-7442EQ @ 2.10GHz,4,"4,834","1,819"
+Intel Core i5-7Y54 @ 1.20GHz,2,"2,748","1,569"
+Intel Core i5-7Y57 @ 1.20GHz,2,"2,814","1,699"
+Intel Core i5-8200Y @ 1.30GHz,2,"2,226","1,505"
+Intel Core i5-8210Y @ 1.60GHz,2,"2,833","1,723"
+Intel Core i5-8250U @ 1.60GHz,4,"5,940","1,932"
+Intel Core i5-8257U @ 1.40GHz,4,"7,679","2,313"
+Intel Core i5-8259U @ 2.30GHz,4,"8,128","2,246"
+Intel Core i5-8260U @ 1.60GHz,4,"7,854","2,313"
+Intel Core i5-8265U @ 1.60GHz,4,"6,109","2,126"
+Intel Core i5-8265UC @ 1.60GHz,4,"5,988","2,200"
+Intel Core i5-8269U @ 2.60GHz,4,"8,055","2,561"
+Intel Core i5-8279U @ 2.40GHz,4,"8,042","2,467"
+Intel Core i5-8300H @ 2.30GHz,4,"7,552","2,312"
+Intel Core i5-8305G @ 2.80GHz,4,"7,073","2,118"
+Intel Core i5-8350U @ 1.70GHz,4,"6,307","2,040"
+Intel Core i5-8365U @ 1.60GHz,4,"6,254","2,169"
+Intel Core i5-8365UE @ 1.60GHz,4,"5,555","2,248"
+Intel Core i5-8400H @ 2.50GHz,4,"7,996","2,461"
+Intel Core i5-8500B @ 3.00GHz,6,"9,418","2,573"
+Intel Core i5-9300H @ 2.40GHz,4,"7,800","2,351"
+Intel Core i5-9300HF @ 2.40GHz,4,"7,679","2,359"
+Intel Core i5-9400F @ 2.90GHz,6,"9,547","2,473"
+Intel Core i5-9400H @ 2.50GHz,4,"8,274","2,503"
+Intel Core i5-9500TE @ 2.20GHz,6,"9,212","2,296"
+Intel Core i5-L16G7 @ 1.40GHz,5,"3,403","1,583"
+Intel Core i7-10510U @ 1.80GHz,4,"6,846","2,364"
+Intel Core i7-10510Y @ 1.20GHz,4,"5,076","1,971"
+Intel Core i7-1060NG7 @ 1.20GHz,4,"7,052","1,925"
+Intel Core i7-10610U @ 1.80GHz,4,"7,105","2,378"
+Intel Core i7-1065G7 @ 1.30GHz,4,"8,680","2,401"
+Intel Core i7-1068NG7 @ 2.30GHz,4,"10,104","2,486"
+Intel Core i7-10700E @ 2.90GHz,8,"17,020","2,845"
+Intel Core i7-10700TE @ 2.00GHz,8,"16,332","2,772"
+Intel Core i7-10710U @ 1.10GHz,6,"10,130","2,459"
+Intel Core i7-10750H @ 2.60GHz,6,"12,369","2,717"
+Intel Core i7-10810U @ 1.10GHz,6,"8,353","2,322"
+Intel Core i7-10850H @ 2.70GHz,6,"12,156","2,743"
+Intel Core i7-10870H @ 2.20GHz,8,"15,038","2,727"
+Intel Core i7-10875H @ 2.30GHz,8,"15,453","2,782"
+Intel Core i7-11370H @ 3.30GHz,4,"12,140","3,024"
+Intel Core i7-11375H @ 3.30GHz,4,"12,383","3,105"
+Intel Core i7-11390H @ 3.40GHz,4,"10,803","3,038"
+Intel Core i7-11600H @ 2.90GHz,6,"16,030","3,204"
+Intel Core i7-1160G7 @ 1.20GHz,4,"10,316","2,827"
+Intel Core i7-1165G7 @ 2.80GHz,4,"10,602","2,876"
+Intel Core i7-11800H @ 2.30GHz,8,"21,454","3,140"
+Intel Core i7-1180G7 @ 1.30GHz,4,"6,607","2,323"
+Intel Core i7-11850H @ 2.50GHz,8,"21,211","3,224"
+Intel Core i7-1185G7 @ 3.00GHz,4,"11,011","2,912"
+Intel Core i7-1185G7E @ 2.80GHz,4,"11,114","3,017"
+Intel Core i7-1195G7 @ 2.90GHz,4,"11,048","3,098"
+Intel Core i7-1260P,4,"17,547","3,262"
+Intel Core i7-1265U,2,"12,281","3,390"
+Intel Core i7-12700H,6,"27,545","3,747"
+Intel Core i7-1270P,4,"22,842","3,824"
+Intel Core i7-12800H,6,"19,052","3,604"
+Intel Core i7-2610UE @ 1.50GHz,2,"1,409",972
+Intel Core i7-2617M @ 1.50GHz,2,"1,687","1,092"
+Intel Core i7-2620M @ 2.70GHz,2,"2,425","1,469"
+Intel Core i7-2630QM @ 2.00GHz,4,"3,554","1,221"
+Intel Core i7-2630UM @ 1.60GHz,2,400,221
+Intel Core i7-2635QM @ 2.00GHz,4,"3,466","1,235"
+Intel Core i7-2637M @ 1.70GHz,2,"1,942","1,222"
+Intel Core i7-2640M @ 2.80GHz,2,"2,437","1,488"
+Intel Core i7-2670QM @ 2.20GHz,4,"3,734","1,326"
+Intel Core i7-2675QM @ 2.20GHz,4,"3,766","1,262"
+Intel Core i7-2677M @ 1.80GHz,2,"1,993","1,240"
+Intel Core i7-2710QE @ 2.10GHz,4,"4,044","1,393"
+Intel Core i7-2715QE @ 2.10GHz,4,"3,221","1,287"
+Intel Core i7-2720QM @ 2.20GHz,4,"4,105","1,393"
+Intel Core i7-2760QM @ 2.40GHz,4,"4,353","1,534"
+Intel Core i7-2820QM @ 2.30GHz,4,"4,347","1,515"
+Intel Core i7-2840QM @ 2.40GHz,4,"3,842","1,493"
+Intel Core i7-2860QM @ 2.50GHz,4,"4,599","1,596"
+Intel Core i7-2920XM @ 2.50GHz,4,"4,344","1,499"
+Intel Core i7-2960XM @ 2.70GHz,4,"4,423","1,491"
+Intel Core i7-3517U @ 1.90GHz,2,"2,084","1,297"
+Intel Core i7-3517UE @ 1.70GHz,2,"2,141","1,205"
+Intel Core i7-3520M @ 2.90GHz,2,"2,872","1,741"
+Intel Core i7-3537U @ 2.00GHz,2,"2,399","1,493"
+Intel Core i7-3540M @ 3.00GHz,2,"2,918","1,774"
+Intel Core i7-3555LE @ 2.50GHz,2,"1,880",980
+Intel Core i7-3610QE @ 2.30GHz,4,"4,767","1,526"
+Intel Core i7-3610QM @ 2.30GHz,4,"5,093","1,663"
+Intel Core i7-3612QE @ 2.10GHz,4,"4,929","1,678"
+Intel Core i7-3612QM @ 2.10GHz,4,"4,603","1,541"
+Intel Core i7-3615QE @ 2.30GHz,4,"5,415","1,771"
+Intel Core i7-3615QM @ 2.30GHz,4,"5,228","1,738"
+Intel Core i7-3630QM @ 2.40GHz,4,"5,134","1,698"
+Intel Core i7-3632QM @ 2.20GHz,4,"4,624","1,577"
+Intel Core i7-3635QM @ 2.40GHz,4,"4,575","1,652"
+Intel Core i7-3667U @ 2.00GHz,2,"2,418","1,518"
+Intel Core i7-3687U @ 2.10GHz,2,"2,650","1,599"
+Intel Core i7-3689Y @ 1.50GHz,2,"1,967","1,209"
+Intel Core i7-3720QM @ 2.60GHz,4,"5,682","1,871"
+Intel Core i7-3740QM @ 2.70GHz,4,"5,706","1,882"
+Intel Core i7-3820QM @ 2.70GHz,4,"5,755","1,915"
+Intel Core i7-3840QM @ 2.80GHz,4,"5,977","1,953"
+Intel Core i7-3920XM @ 2.90GHz,4,"5,700","1,910"
+Intel Core i7-3940XM @ 3.00GHz,4,"5,671","1,930"
+Intel Core i7-4500U @ 1.80GHz,2,"2,532","1,546"
+Intel Core i7-4510U @ 2.00GHz,2,"2,584","1,544"
+Intel Core i7-4550U @ 1.50GHz,2,"2,354","1,289"
+Intel Core i7-4558U @ 2.80GHz,2,"2,956","1,824"
+Intel Core i7-4560U @ 1.60GHz,2,"2,950","1,782"
+Intel Core i7-4578U @ 3.00GHz,2,"3,013","1,913"
+Intel Core i7-4600M @ 2.90GHz,2,"3,174","1,854"
+Intel Core i7-4600U @ 2.10GHz,2,"2,688","1,676"
+Intel Core i7-4610M @ 3.00GHz,2,"3,002","1,740"
+Intel Core i7-4650U @ 1.70GHz,2,"2,410","1,543"
+Intel Core i7-4700HQ @ 2.40GHz,4,"5,564","1,785"
+Intel Core i7-4700MQ @ 2.40GHz,4,"5,331","1,769"
+Intel Core i7-4702HQ @ 2.20GHz,4,"5,305","1,651"
+Intel Core i7-4702MQ @ 2.20GHz,4,"5,106","1,687"
+Intel Core i7-4710HQ @ 2.50GHz,4,"5,509","1,782"
+Intel Core i7-4710MQ @ 2.50GHz,4,"5,800","1,895"
+Intel Core i7-4712HQ @ 2.30GHz,4,"5,188","1,684"
+Intel Core i7-4712MQ @ 2.30GHz,4,"5,262","1,787"
+Intel Core i7-4720HQ @ 2.60GHz,4,"5,772","1,871"
+Intel Core i7-4722HQ @ 2.40GHz,4,"5,620","1,844"
+Intel Core i7-4750HQ @ 2.00GHz,4,"5,599","1,733"
+Intel Core i7-4760HQ @ 2.10GHz,4,"6,300","1,944"
+Intel Core i7-4770HQ @ 2.20GHz,4,"6,121","1,935"
+Intel Core i7-4800MQ @ 2.70GHz,4,"5,808","1,939"
+Intel Core i7-4810MQ @ 2.80GHz,4,"6,044","2,007"
+Intel Core i7-4850HQ @ 2.30GHz,4,"6,398","2,003"
+Intel Core i7-4860EQ @ 1.80GHz,4,"5,500","1,754"
+Intel Core i7-4860HQ @ 2.40GHz,4,"6,138","1,901"
+Intel Core i7-4870HQ @ 2.50GHz,4,"6,374","2,088"
+Intel Core i7-4900MQ @ 2.80GHz,4,"6,045","1,946"
+Intel Core i7-4910MQ @ 2.90GHz,4,"6,244","2,009"
+Intel Core i7-4930MX @ 3.00GHz,4,"6,753","2,180"
+Intel Core i7-4940MX @ 3.10GHz,4,"7,060","2,286"
+Intel Core i7-4960HQ @ 2.60GHz,4,"6,768","2,190"
+Intel Core i7-4980HQ @ 2.80GHz,4,"6,801","2,256"
+Intel Core i7-5500U @ 2.40GHz,2,"2,719","1,630"
+Intel Core i7-5550U @ 2.00GHz,2,"2,908","1,781"
+Intel Core i7-5557U @ 3.10GHz,2,"3,162","1,935"
+Intel Core i7-5600U @ 2.60GHz,2,"2,989","1,763"
+Intel Core i7-5650U @ 2.20GHz,2,"3,006","1,923"
+Intel Core i7-5700EQ @ 2.60GHz,4,"5,905","2,124"
+Intel Core i7-5700HQ @ 2.70GHz,4,"6,018","2,024"
+Intel Core i7-5850EQ @ 2.70GHz,4,"7,036","2,119"
+Intel Core i7-5850HQ @ 2.70GHz,4,"6,866","2,219"
+Intel Core i7-5950HQ @ 2.90GHz,4,"7,696","2,288"
+Intel Core i7-610E @ 2.53GHz,2,"1,818","1,400"
+Intel Core i7-620LM @ 2.00GHz,2,"1,422","1,074"
+Intel Core i7-620M @ 2.67GHz,2,"1,999","1,283"
+Intel Core i7-620UM @ 1.07GHz,2,964,777
+Intel Core i7-640LM @ 2.13GHz,2,"1,469","1,013"
+Intel Core i7-640M @ 2.80GHz,2,"2,042","1,385"
+Intel Core i7-640UM @ 1.20GHz,2,"1,090",817
+Intel Core i7-6498DU @ 2.50GHz,2,"3,303","1,721"
+Intel Core i7-6500U @ 2.50GHz,2,"3,280","1,709"
+Intel Core i7-6560U @ 2.20GHz,2,"3,428","1,731"
+Intel Core i7-6567U @ 3.30GHz,2,"3,796","2,096"
+Intel Core i7-6600U @ 2.60GHz,2,"3,506","1,849"
+Intel Core i7-660UM @ 1.33GHz,2,"1,272",927
+Intel Core i7-6650U @ 2.20GHz,2,"3,579","1,813"
+Intel Core i7-6660U @ 2.40GHz,2,"3,851","1,983"
+Intel Core i7-6700HQ @ 2.60GHz,4,"6,541","1,918"
+Intel Core i7-6770HQ @ 2.60GHz,4,"7,145","1,966"
+Intel Core i7-680UM @ 1.47GHz,2,"1,046",773
+Intel Core i7-6820EQ @ 2.80GHz,4,"6,924","1,969"
+Intel Core i7-6820HK @ 2.70GHz,4,"6,922","1,949"
+Intel Core i7-6820HQ @ 2.70GHz,4,"6,934","1,991"
+Intel Core i7-6822EQ @ 2.00GHz,4,"5,241","1,572"
+Intel Core i7-6920HQ @ 2.90GHz,4,"7,385","2,125"
+Intel Core i7-720QM @ 1.60GHz,4,"1,660",965
+Intel Core i7-740QM @ 1.73GHz,4,"1,780","1,010"
+Intel Core i7-7500U @ 2.70GHz,2,"3,654","1,948"
+Intel Core i7-7560U @ 2.40GHz,2,"3,801","2,013"
+Intel Core i7-7567U @ 3.50GHz,2,"4,248","2,258"
+Intel Core i7-7600U @ 2.80GHz,2,"3,665","1,989"
+Intel Core i7-7660U @ 2.50GHz,2,"4,099","2,137"
+Intel Core i7-7700HQ @ 2.80GHz,4,"6,955","2,069"
+Intel Core i7-7820EQ @ 3.00GHz,4,"7,453","2,207"
+Intel Core i7-7820HK @ 2.90GHz,4,"7,695","2,180"
+Intel Core i7-7820HQ @ 2.90GHz,4,"7,213","2,141"
+Intel Core i7-7920HQ @ 3.10GHz,4,"7,435","2,224"
+Intel Core i7-7Y75 @ 1.30GHz,2,"2,670","1,612"
+Intel Core i7-820QM @ 1.73GHz,4,"1,768","1,029"
+Intel Core i7-840QM @ 1.87GHz,4,"1,924","1,137"
+Intel Core i7-8500Y @ 1.50GHz,2,"2,631","1,501"
+Intel Core i7-8550U @ 1.80GHz,4,"5,950","2,071"
+Intel Core i7-8557U @ 1.70GHz,4,"8,225","2,571"
+Intel Core i7-8559U @ 2.70GHz,4,"8,745","2,580"
+Intel Core i7-8565U @ 1.80GHz,4,"6,369","2,250"
+Intel Core i7-8565UC @ 1.80GHz,4,"6,187","2,527"
+Intel Core i7-8569U @ 2.80GHz,4,"8,523","2,773"
+Intel Core i7-8650U @ 1.90GHz,4,"6,371","2,158"
+Intel Core i7-8665U @ 1.90GHz,4,"6,414","2,246"
+Intel Core i7-8665UE @ 1.70GHz,4,"5,017","1,538"
+Intel Core i7-8700B @ 3.20GHz,6,"12,363","2,766"
+Intel Core i7-8705G @ 3.10GHz,4,"7,947","2,288"
+Intel Core i7-8706G @ 3.10GHz,4,"8,136","2,519"
+Intel Core i7-8709G @ 3.10GHz,4,"7,990","2,291"
+Intel Core i7-8750H @ 2.20GHz,6,"10,089","2,332"
+Intel Core i7-8809G @ 3.10GHz,4,"8,759","2,457"
+Intel Core i7-8850H @ 2.60GHz,6,"10,343","2,403"
+Intel Core i7-920XM @ 2.00GHz,4,"2,021","1,016"
+Intel Core i7-940XM @ 2.13GHz,4,"2,252","1,223"
+Intel Core i7-9700TE @ 1.80GHz,8,"10,826","2,309"
+Intel Core i7-9750H @ 2.60GHz,6,"11,208","2,488"
+Intel Core i7-9750HF @ 2.60GHz,6,"11,435","2,547"
+Intel Core i7-9850H @ 2.60GHz,6,"11,491","2,551"
+Intel Core i7-9850HL @ 1.90GHz,6,"9,112","2,139"
+Intel Core i9-10880H @ 2.30GHz,8,"15,064","2,805"
+Intel Core i9-10885H @ 2.40GHz,8,"15,658","2,808"
+Intel Core i9-10980HK @ 2.40GHz,8,"16,271","2,869"
+Intel Core i9-11900H @ 2.50GHz,8,"21,602","3,214"
+Intel Core i9-11950H @ 2.60GHz,8,"22,563","3,298"
+Intel Core i9-11980HK @ 2.60GHz,8,"23,611","3,311"
+Intel Core i9-12900H,6,"30,018","4,001"
+Intel Core i9-12900HK,6,"29,951","3,925"
+Intel Core i9-8950HK @ 2.90GHz,6,"10,813","2,495"
+Intel Core i9-9880H @ 2.30GHz,8,"13,987","2,558"
+Intel Core i9-9980HK @ 2.40GHz,8,"14,731","2,620"
+Intel Core M-5Y10 @ 0.80GHz,2,"1,840","1,098"
+Intel Core M-5Y10a @ 0.80GHz,2,"1,905",993
+Intel Core M-5Y10c @ 0.80GHz,2,"1,822","1,080"
+Intel Core M-5Y31 @ 0.90GHz,2,"2,085","1,332"
+Intel Core M-5Y51 @ 1.10GHz,2,"2,191","1,407"
+Intel Core M-5Y70 @ 1.10GHz,2,"1,705","1,039"
+Intel Core M-5Y71 @ 1.20GHz,2,"2,069","1,334"
+Intel Core m3-6Y30 @ 0.90GHz,2,"2,041","1,229"
+Intel Core m3-7Y30 @ 1.00GHz,2,"2,589","1,386"
+Intel Core m3-7Y32 @ 1.10GHz,2,"2,928","1,689"
+Intel Core m3-8100Y @ 1.10GHz,2,"2,986","1,780"
+Intel Core m5-6Y54 @ 1.10GHz,2,"2,131","1,198"
+Intel Core m5-6Y57 @ 1.10GHz,2,"2,369","1,361"
+Intel Core m7-6Y75 @ 1.20GHz,2,"2,380","1,433"
+Intel Core Solo T1300 @ 1.66GHz,1,210,518
+Intel Core Solo T1350 @ 1.86GHz,1,194,413
+Intel Core Solo T1400 @ 1.83GHz,1,253,525
+Intel Core Solo U1300 @ 1.06GHz,1,127,340
+Intel Core Solo U1400 @ 1.20GHz,1,130,365
+Intel Core Solo U1500 @ 1.33GHz,1,164,375
+Intel Core2 Duo E8135 @ 2.66GHz,2,"1,119","1,140"
+Intel Core2 Duo E8235 @ 2.80GHz,2,995,"1,113"
+Intel Core2 Duo E8335 @ 2.66GHz,2,"1,172","1,126"
+Intel Core2 Duo E8335 @ 2.93GHz,2,"1,187","1,206"
+Intel Core2 Duo E8435 @ 3.06GHz,2,"1,240","1,307"
+Intel Core2 Duo L7100 @ 1.20GHz,2,467,484
+Intel Core2 Duo L7300 @ 1.40GHz,2,489,529
+Intel Core2 Duo L7400 @ 1.50GHz,2,516,555
+Intel Core2 Duo L7500 @ 1.60GHz,2,575,600
+Intel Core2 Duo L7700 @ 1.80GHz,2,607,748
+Intel Core2 Duo L9300 @ 1.60GHz,2,666,659
+Intel Core2 Duo L9600 @ 2.13GHz,2,892,914
+Intel Core2 Duo P7350 @ 2.00GHz,2,727,787
+Intel Core2 Duo P7370 @ 2.00GHz,2,790,793
+Intel Core2 Duo P7450 @ 2.13GHz,2,747,821
+Intel Core2 Duo P7550 @ 2.26GHz,2,868,917
+Intel Core2 Duo P7570 @ 2.26GHz,2,711,884
+Intel Core2 Duo P8400 @ 2.26GHz,2,827,921
+Intel Core2 Duo P8600 @ 2.40GHz,2,851,935
+Intel Core2 Duo P8700 @ 2.53GHz,2,956,"1,047"
+Intel Core2 Duo P8800 @ 2.66GHz,2,915,"1,078"
+Intel Core2 Duo P9300 @ 2.26GHz,2,909,855
+Intel Core2 Duo P9500 @ 2.53GHz,2,959,"1,056"
+Intel Core2 Duo P9600 @ 2.53GHz,2,"1,012","1,075"
+Intel Core2 Duo P9600 @ 2.66GHz,2,"1,069","1,111"
+Intel Core2 Duo P9700 @ 2.80GHz,2,"1,109","1,151"
+Intel Core2 Duo SL9400 @ 1.86GHz,2,743,767
+Intel Core2 Duo SP9400 @ 2.40GHz,2,948,930
+Intel Core2 Duo SU9400 @ 1.40GHz,2,534,597
+Intel Core2 Duo T5200 @ 1.60GHz,2,438,575
+Intel Core2 Duo T5250 @ 1.50GHz,2,483,542
+Intel Core2 Duo T5270 @ 1.40GHz,2,496,586
+Intel Core2 Duo T5300 @ 1.73GHz,2,635,423
+Intel Core2 Duo T5450 @ 1.66GHz,2,543,581
+Intel Core2 Duo T5470 @ 1.60GHz,2,531,606
+Intel Core2 Duo T5500 @ 1.66GHz,2,513,590
+Intel Core2 Duo T5550 @ 1.83GHz,2,596,664
+Intel Core2 Duo T5600 @ 1.83GHz,2,645,696
+Intel Core2 Duo T5670 @ 1.80GHz,2,530,635
+Intel Core2 Duo T5750 @ 2.00GHz,2,667,735
+Intel Core2 Duo T5800 @ 2.00GHz,2,638,738
+Intel Core2 Duo T5850 @ 2.16GHz,2,657,769
+Intel Core2 Duo T5870 @ 2.00GHz,2,700,748
+Intel Core2 Duo T5900 @ 2.20GHz,2,652,768
+Intel Core2 Duo T6400 @ 2.00GHz,2,708,794
+Intel Core2 Duo T6500 @ 2.10GHz,2,687,833
+Intel Core2 Duo T6570 @ 2.10GHz,2,718,824
+Intel Core2 Duo T6600 @ 2.20GHz,2,761,851
+Intel Core2 Duo T6670 @ 2.20GHz,2,756,855
+Intel Core2 Duo T7100 @ 1.80GHz,2,643,714
+Intel Core2 Duo T7200 @ 2.00GHz,2,723,756
+Intel Core2 Duo T7250 @ 2.00GHz,2,688,771
+Intel Core2 Duo T7300 @ 2.00GHz,2,693,772
+Intel Core2 Duo T7400 @ 2.16GHz,2,702,774
+Intel Core2 Duo T7500 @ 2.20GHz,2,823,878
+Intel Core2 Duo T7600 @ 2.33GHz,2,770,848
+Intel Core2 Duo T7700 @ 2.40GHz,2,825,899
+Intel Core2 Duo T7800 @ 2.60GHz,2,976,"1,034"
+Intel Core2 Duo T8100 @ 2.10GHz,2,739,836
+Intel Core2 Duo T8300 @ 2.40GHz,2,903,995
+Intel Core2 Duo T9300 @ 2.50GHz,2,938,"1,018"
+Intel Core2 Duo T9400 @ 2.53GHz,2,934,"1,014"
+Intel Core2 Duo T9500 @ 2.60GHz,2,"1,016","1,090"
+Intel Core2 Duo T9550 @ 2.66GHz,2,937,"1,035"
+Intel Core2 Duo T9600 @ 2.80GHz,2,"1,051","1,121"
+Intel Core2 Duo T9800 @ 2.93GHz,2,"1,163","1,220"
+Intel Core2 Duo T9900 @ 3.06GHz,2,"1,227","1,204"
+Intel Core2 Duo U7300 @ 1.30GHz,2,501,533
+Intel Core2 Duo U7500 @ 1.06GHz,2,405,425
+Intel Core2 Duo U7600 @ 1.20GHz,2,316,427
+Intel Core2 Duo U7700 @ 1.33GHz,2,345,345
+Intel Core2 Duo U9300 @ 1.20GHz,2,485,542
+Intel Core2 Duo U9600 @ 1.60GHz,2,584,657
+Intel Core2 Extreme X7800 @ 2.60GHz,2,"1,138","1,077"
+Intel Core2 Extreme X7900 @ 2.80GHz,2,"1,093","1,087"
+Intel Core2 Extreme X9000 @ 2.80GHz,2,"1,135","1,103"
+Intel Core2 Extreme X9100 @ 3.06GHz,2,"1,139","1,175"
+Intel Core2 Quad Q9000 @ 2.00GHz,4,"1,480",879
+Intel Core2 Quad Q9100 @ 2.26GHz,4,"1,764",930
+Intel Core2 Solo U2100 @ 1.06GHz,1,233,258
+Intel Core2 Solo U3500 @ 1.40GHz,1,252,546
+Intel Pentium 2020M @ 2.40GHz,2,"1,368","1,268"
+Intel Pentium 2030M @ 2.50GHz,2,"1,353","1,157"
+Intel Pentium 2117U @ 1.80GHz,2,998,925
+Intel Pentium 2127U @ 1.90GHz,2,"1,066",992
+Intel Pentium 2129Y @ 1.10GHz,2,635,587
+Intel Pentium 3550M @ 2.30GHz,2,"1,309","1,183"
+Intel Pentium 3556U @ 1.70GHz,2,"1,003",933
+Intel Pentium 3558U @ 1.70GHz,2,994,926
+Intel Pentium 3560M @ 2.40GHz,2,"1,552","1,421"
+Intel Pentium 3560Y @ 1.20GHz,2,849,700
+Intel Pentium 3805U @ 1.90GHz,2,"1,148","1,079"
+Intel Pentium 3825U @ 1.90GHz,2,"1,340","1,108"
+Intel Pentium 4 Mobile 1.60GHz,1,116,254
+Intel Pentium 4 Mobile 1.80GHz,1,114,195
+Intel Pentium 4 Mobile 1.90GHz,1,136,282
+Intel Pentium 4 Mobile 2.00GHz,1,132,310
+Intel Pentium 4405U @ 2.10GHz,2,"2,091","1,217"
+Intel Pentium 4405Y @ 1.50GHz,2,"1,518",868
+Intel Pentium 4410Y @ 1.50GHz,2,"1,444",777
+Intel Pentium 4415U @ 2.30GHz,2,"2,199","1,269"
+Intel Pentium 4415Y @ 1.60GHz,2,"1,600",899
+Intel Pentium 4417U @ 2.30GHz,2,"2,276","1,334"
+Intel Pentium 4425Y @ 1.70GHz,2,"1,697",967
+Intel Pentium 5405U @ 2.30GHz,2,"2,286","1,340"
+Intel Pentium 6405U @ 2.40GHz,2,"2,367","1,417"
+Intel Pentium 6805 @ 1.10GHz,2,"4,745","1,964"
+Intel Pentium 957 @ 1.20GHz,2,622,574
+Intel Pentium 967 @ 1.30GHz,2,626,620
+Intel Pentium 987 @ 1.50GHz,2,642,641
+Intel Pentium A1018 @ 2.10GHz,2,"1,117","1,020"
+Intel Pentium A1020 @ 2.41GHz,4,"1,265",705
+Intel Pentium B940 @ 2.00GHz,2,835,864
+Intel Pentium B950 @ 2.10GHz,2,980,932
+Intel Pentium B960 @ 2.20GHz,2,910,941
+Intel Pentium B970 @ 2.30GHz,2,"1,091","1,055"
+Intel Pentium B980 @ 2.40GHz,2,"1,076","1,060"
+Intel Pentium G4400TE @ 2.40GHz,2,"2,190","1,481"
+Intel Pentium Gold 7505 @ 2.00GHz,2,"5,369","2,314"
+Intel Pentium Gold 8505,1,"6,771","3,112"
+Intel Pentium III Mobile 1066MHz,1,160,210
+Intel Pentium III Mobile 1133MHz,1,164,218
+Intel Pentium III Mobile 1200MHz,1,156,216
+Intel Pentium III Mobile 800MHz,1,119,155
+Intel Pentium III Mobile 866MHz,1,99,132
+Intel Pentium M 1.30GHz,1,196,250
+Intel Pentium M 1.40GHz,1,225,264
+Intel Pentium M 1.50GHz,1,240,323
+Intel Pentium M 1.60GHz,1,229,307
+Intel Pentium M 1.70GHz,1,239,318
+Intel Pentium M 1.73GHz,1,205,494
+Intel Pentium M 1.80GHz,1,280,389
+Intel Pentium M 1.86GHz,1,238,460
+Intel Pentium M 1000MHz,1,156,222
+Intel Pentium M 1200MHz,1,155,166
+Intel Pentium M 1300MHz,1,197,271
+Intel Pentium M 1400MHz,1,208,282
+Intel Pentium M 1500MHz,1,188,251
+Intel Pentium M 1600MHz,1,193,313
+Intel Pentium M 1700MHz,1,237,361
+Intel Pentium M 2.00GHz,1,270,363
+Intel Pentium M 2.10GHz,1,292,353
+Intel Pentium M 2.13GHz,1,271,354
+Intel Pentium M 2.26GHz,1,227,508
+Intel Pentium M 900MHz,1,141,200
+Intel Pentium N3510 @ 1.99GHz,4,878,534
+Intel Pentium N3520 @ 2.16GHz,4,"1,134",664
+Intel Pentium N3530 @ 2.16GHz,4,"1,197",705
+Intel Pentium N3540 @ 2.16GHz,4,"1,214",714
+Intel Pentium N3700 @ 1.60GHz,4,"1,316",646
+Intel Pentium N3710 @ 1.60GHz,4,"1,361",685
+Intel Pentium N4200 @ 1.10GHz,4,"2,138",857
+Intel Pentium P6000 @ 1.87GHz,2,765,713
+Intel Pentium P6100 @ 2.00GHz,2,850,831
+Intel Pentium P6200 @ 2.13GHz,2,847,840
+Intel Pentium P6300 @ 2.27GHz,2,834,772
+Intel Pentium Silver N5000 @ 1.10GHz,4,"2,596","1,144"
+Intel Pentium Silver N5020 @ 1.10GHz,4,"3,404","1,307"
+Intel Pentium Silver N5030 @ 1.10GHz,4,"2,692","1,300"
+Intel Pentium Silver N6005 @ 2.00GHz,4,"4,513","1,770"
+Intel Pentium SU2700 @ 1.30GHz,1,239,432
+Intel Pentium SU4100 @ 1.30GHz,2,476,515
+Intel Pentium T2060 @ 1.60GHz,2,330,490
+Intel Pentium T2080 @ 1.73GHz,2,348,530
+Intel Pentium T2130 @ 1.86GHz,2,382,583
+Intel Pentium T2310 @ 1.46GHz,2,515,557
+Intel Pentium T2330 @ 1.60GHz,2,545,582
+Intel Pentium T2370 @ 1.73GHz,2,500,546
+Intel Pentium T2390 @ 1.86GHz,2,547,641
+Intel Pentium T3200 @ 2.00GHz,2,636,713
+Intel Pentium T3400 @ 2.16GHz,2,645,722
+Intel Pentium T4200 @ 2.00GHz,2,714,787
+Intel Pentium T4300 @ 2.10GHz,2,768,832
+Intel Pentium T4400 @ 2.20GHz,2,762,862
+Intel Pentium T4500 @ 2.30GHz,2,791,910
+Intel Pentium U5400 @ 1.20GHz,2,538,503
+Intel Pentium U5600 @ 1.33GHz,2,624,588
+Intel Xeon D-1528 @ 1.90GHz,6,"5,910","1,281"
+Intel Xeon E-2176M @ 2.70GHz,6,"10,959","2,462"
+Intel Xeon E-2186M @ 2.90GHz,6,"10,904","2,481"
+Intel Xeon E-2276M @ 2.80GHz,6,"11,802","2,646"
+Intel Xeon E-2286M @ 2.40GHz,8,"15,296","2,780"
+Intel Xeon E3-1268L v5 @ 2.40GHz,4,"6,600","1,869"
+Intel Xeon E3-1505L v5 @ 2.00GHz,4,"4,838","1,635"
+Intel Xeon E3-1505L v6 @ 2.20GHz,4,"6,088","1,848"
+Intel Xeon E3-1535M v5 @ 2.90GHz,4,"7,563","2,139"
+Intel Xeon E3-1535M v6 @ 3.10GHz,4,"8,184","2,386"
+Intel Xeon E3-1545M v5 @ 2.90GHz,4,"7,911","2,122"
+Intel Xeon W-10855M @ 2.80GHz,6,"13,136","2,816"
+Intel Xeon W-10885M @ 2.40GHz,8,"16,013","2,768"
+Intel Xeon W-11855M @ 3.20GHz,6,"18,836","3,318"
+Intel Xeon W-11955M @ 2.60GHz,8,"23,855","3,373"
+Microsoft ARM SQ1 @ 3.0 GHz,8,"4,371","1,862"
+Mobile AMD Athlon 2500+,1,241,365
+Mobile AMD Athlon 4 2400+,1,233,358
+Mobile AMD Athlon 64 3200+,1,326,400
+Mobile AMD Athlon 64 3400+,1,333,432
+Mobile AMD Athlon 64 3700+,1,356,485
+Mobile AMD Athlon 64 4000+,1,313,338
+Mobile AMD Athlon MP-M 1800+,1,173,262
+Mobile AMD Athlon MP-M 2400+,1,192,314
+Mobile AMD Athlon XP-M 1600+,1,169,274
+Mobile AMD Athlon XP-M 1800+,1,193,291
+Mobile AMD Athlon XP-M 2000+,1,196,301
+Mobile AMD Athlon XP-M 2200+,1,237,363
+Mobile AMD Athlon XP-M 2400+,1,225,355
+Mobile AMD Athlon XP-M 2500+,1,226,355
+Mobile AMD Athlon XP-M 2600+,1,241,375
+Mobile AMD Athlon XP-M 2800+,1,238,385
+Mobile AMD Athlon XP-M 3000+,1,238,365
+Mobile AMD Sempron 2100+,1,164,203
+Mobile AMD Sempron 2600+,1,256,316
+Mobile AMD Sempron 2800+,1,237,299
+Mobile AMD Sempron 3000+,1,269,350
+Mobile AMD Sempron 3100+,1,277,359
+Mobile AMD Sempron 3200+,1,245,525
+Mobile AMD Sempron 3300+,1,294,391
+Mobile AMD Sempron 3400+,1,321,455
+Mobile AMD Sempron 3500+,1,290,654
+Mobile AMD Sempron 3600+,1,302,724
+Mobile AMD Sempron 3800+,1,335,735
+Mobile Intel Celeron 1.70GHz,1,118,254
+Mobile Intel Celeron 1.80GHz,1,121,280
+Mobile Intel Celeron 1333MHz,1,183,248
+Mobile Intel Celeron 2.00GHz,1,133,290
+Mobile Intel Celeron 2.20GHz,1,147,355
+Mobile Intel Celeron 2.40GHz,1,154,376
+Mobile Intel Pentium 4 - M 1.70GHz,1,121,297
+Mobile Intel Pentium 4 - M 1.80GHz,1,119,297
+Mobile Intel Pentium 4 - M 2.00GHz,1,138,345
+Mobile Intel Pentium 4 - M 2.20GHz,1,143,388
+Mobile Intel Pentium 4 - M 2.40GHz,1,139,317
+Mobile Intel Pentium 4 3.33GHz,1,344,552
+Mobile Intel Pentium III - M 1200MHz,1,146,185
+Mobile Intel Pentium III - M 933MHz,1,130,177
+VIA C7-M 1600MHz,1,116,124
+VIA Eden 1000MHz,1,80,83
+VIA Eden 1200MHz,1,93,97
+VIA Nano L2007@1600MHz,1,254,242
+VIA Nano L2100@1800MHz,1,279,182
+VIA Nano L2207@1600MHz,1,165,191
+VIA Nano U2250 (1.6GHz Capable),1,270,259
+VIA Nano U2250@1300+MHz,1,179,156
+VIA Nano U2500@1200MHz,1,199,184
+VIA Nano U3500@1000MHz,1,184,286
+VIA Nano X2 U4025 @ 1.2 GHz,2,393,213
+VIA QuadCore L4700 @ 1.2+ GHz,4,773,355
